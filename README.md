@@ -10,6 +10,11 @@
   -   **Original video filename** - This takes the name of the file alongwith the extension where the original video sequence is stored. 
   -   **Tempered video filename** - This takes the name of the file alongwith the extension where the tempered video sequence is stored. 
 
+Upload the files in the local storage before running the program. 
+
+![image](https://user-images.githubusercontent.com/91241423/157018912-aa83fdd4-6f22-4a52-babf-637c82859e02.png)
+
+
 # How-to-run
   - Step-1 Open the RESIDUAL-BASED FORENSIC COMPARISON OF VIDEO SEQUENCES.ipynb file in colab or jupyter notebook.
       Link to the project files - 
